@@ -40,25 +40,24 @@ SSE 流解析：完美支持 Server-Sent Events，实时追踪 初始化 -> 上�
 
 # 🚀 快速开始
 
-1. 环境准备
 
 确保你的系统中已安装 Node.js (建议 v18+)。
 
 
 ## 克隆仓库
-'git clone [https://github.com/your-username/sora2-manager.git](https://github.com/your-username/sora2-manager.git)'
-'cd sora2-manager'
+```git clone [https://github.com/your-username/sora2-manager.git](https://github.com/your-username/sora2-manager.git)```
+```cd sora2-manager```
 
 ## 安装项目依赖
-'npm install'
+```npm install```
 
 
 ## 启动开发服务器并开启 Electron 窗口
-'npm run electron:dev'
+```npm run electron:dev```
 
 
 ## 构建并生成安装程序 (Windows 默认生成 nsis)
-'npm run electron:build'
+```npm run electron:build```
 
 
 # ⚙️ 配置说明
